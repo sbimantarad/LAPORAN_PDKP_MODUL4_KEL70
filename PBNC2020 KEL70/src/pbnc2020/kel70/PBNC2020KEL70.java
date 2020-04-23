@@ -15,7 +15,7 @@ public class PBNC2020KEL70 {
         return "Daniel Parningotan Alexander Sibarani 21120119130086";
     }
     static String praktikan2(){
-        return "Satria Bimantara D 21120119130096";
+        return "Satria Bimantara Dharmawan 21120119130096";
     }
     public void pembatas(){
         System.out.println("=========================");
@@ -33,7 +33,7 @@ public class PBNC2020KEL70 {
         System.out.println("   TICKET CORNER  ");
         System.out.println("------------------");
         System.out.println("##################");
-        System.out.println("MASUKAN USERNAME ANDA");
+        System.out.println("MASUKKAN USERNAME ANDA");
         System.out.print(":");
         username=sc.nextInt();
         
